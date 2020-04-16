@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://shang-vikas.github.io/gotta_explain_it/sitemap.xml
